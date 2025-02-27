@@ -1,1 +1,5 @@
-print("Hello World")
+a = 11
+if a < 6:
+    print("a kecil dari 6")
+else:
+    print("salah")
